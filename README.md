@@ -14,9 +14,9 @@ to render websites and HTML code as desktop apps. Simply run the exported ```ini
 
 Run 
 ```
-npm install web-top
+npm install webtop-desktop
 ```
-And then use ```const webtop = require('webtop')``` or ```import webtop from 'webtop'``` (depending on your module layout)
+And then use ```const webtop = require('webtop-desktop')``` or ```import webtop from 'webtop-desktop'``` (depending on your module layout)
 after that, just run ```webtop([your url here])``` to use. Make sure to run the file where you use webtop with ```npx electron```.
 
 ## File Structure
