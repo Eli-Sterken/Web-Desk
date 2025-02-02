@@ -16,7 +16,8 @@
     "desktop-app",
     "Desktop-App",
     "desktop-web",
-    "Desktop-Web"
+    "Desktop-Web",
+    "npm"
   ],
   "homepage": "https://github.com/Eli-Sterken/Web-Top#readme",
   "bugs": {
