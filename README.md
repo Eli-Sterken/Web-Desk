@@ -1,6 +1,6 @@
 # Welcome to Web Desk!
 
-<img src="/Logo.png" alt="Web Top Logo" width="300" height="200">
+<img src="/Logo.jpg" alt="Web Desk Logo" width="300" height="200">
 
 Hello there, and welcome to the Web Desk GitHub repository! Web Top is a simple system to turn websites
 into desktop apps for any platoform. Just set a url, and you're good to go!
