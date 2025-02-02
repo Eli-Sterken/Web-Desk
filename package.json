@@ -1,5 +1,5 @@
 {
-  "name": "web-top",
+  "name": "@eli-sterken/web-top",
   "version": "1.0.0",
   "description": "A package to render web sites as dekstop apps.",
   "keywords": [
