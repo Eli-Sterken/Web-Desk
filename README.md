@@ -17,7 +17,7 @@ Run
 npm install web-top
 ```
 And then use ```const webtop = require('webtop')``` or ```import webtop from 'webtop'``` (depending on your module layout)
-after that, just run ```webtop([your url here])``` to use.
+after that, just run ```webtop([your url here])``` to use. Make sure to run the file where you use webtop with ```npx electron```.
 
 ## File Structure
 - index.js
