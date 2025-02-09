@@ -1,6 +1,4 @@
-
-
-name: Node.js Package
+name: Publish To GitHub
 
 on:
   release:
@@ -21,4 +19,4 @@ jobs:
       - run: npm ci
       - run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{secrets.github}}
+          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
