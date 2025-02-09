@@ -19,13 +19,13 @@
     "Desktop-Web",
     "npm"
   ],
-  "homepage": "https://github.com/Eli-Sterken/Web-Top#readme",
+  "homepage": "https://github.com/Eli-Sterken/Web-Desk#readme",
   "bugs": {
-    "url": "https://github.com/Eli-Sterken/Web-Top/issues"
+    "url": "https://github.com/Eli-Sterken/Web-Desk/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Eli-Sterken/Web-Top.git"
+    "url": "git+https://github.com/Eli-Sterken/Web-Desk.git"
   },
   "license": "GPL-3.0-only",
   "author": "Eli Sterken",
